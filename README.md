@@ -13,10 +13,15 @@ I'm a passionate learner interested in Data Analytics and technology.
 - Data Analytics
 
 ### 🛠️ Skills
-- Python
-- SQL
-- Excel
-- Data Analysis
+### 🛠️ Skills
+
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
+
+![SQL](https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=mysql&logoColor=white)
+
+![Excel](https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+![Data Analytics](https://img.shields.io/badge/Data_Analytics-purple?style=for-the-badge)
 
 ### 📂 My Projects
 **Railway Failure Severity Prediction**
