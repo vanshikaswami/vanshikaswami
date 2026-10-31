@@ -13,7 +13,6 @@ I'm a passionate learner interested in Data Analytics and technology.
 - Data Analytics
 
 ### 🛠️ Skills
-### 🛠️ Skills
 
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
 
